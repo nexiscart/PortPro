@@ -92,7 +92,7 @@ const About: React.FC = () => (
             <Paragraph>
                 <SubHeading>Integrated Quality Control</SubHeading>
                 Quality assurance protocols, photographic documentation, and verification procedures are embedded in daily operations rather than applied as final inspections.
-            </p>
+            </Paragraph>
 
             <Heading>Technology Integration</Heading>
             <Paragraph>
